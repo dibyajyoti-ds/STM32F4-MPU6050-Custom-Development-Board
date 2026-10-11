@@ -1,0 +1,32 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [STM32_V1.PrjPcb]
+   Generated File[PCB1.GTO]
+   Generated File[PCB1.GTP]
+   Generated File[PCB1.GTS]
+   Generated File[PCB1.GTL]
+   Generated File[PCB1.G1]
+   Generated File[PCB1.G2]
+   Generated File[PCB1.GBL]
+   Generated File[PCB1.GBS]
+   Generated File[PCB1.GBP]
+   Generated File[PCB1.GM1]
+   Generated File[PCB1.GM5]
+   Generated File[PCB1.GM13]
+   Generated File[PCB1.GM15]
+   Generated File[PCB1.GM16]
+   Generated File[PCB1.GM19]
+   Generated File[PCB1.GKO]
+   Generated File[PCB1.GPT]
+   Generated File[PCB1.GPB]
+   Generated File[PCB1.GD1]
+   Generated File[PCB1.GG1]
+   Generated File[PCB1.GM]
+   Generated File[PCB1.EXTREP]
+   Generated File[PCB1.REP]
+
+
+Files Generated   : 23
+Documents Printed : 0
+
+Finished Output Generation At 16:40:04 On 11-10-2026
